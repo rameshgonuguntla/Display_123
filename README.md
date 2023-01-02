@@ -38,6 +38,12 @@ public class GFG {
             // Printing value for the corresponding key
             System.out.println("value for key"
                                + " \"vishal\" is:- " + a);
+        get ready
+        
         }
-    }
-}
+        
+     }
+     
+     
+  }
+    
